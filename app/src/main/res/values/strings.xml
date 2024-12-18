@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lab 07. Nikiforov Aleks AS-63</string>
+
+    <string name="auth_title">Author</string>
+    <string name="auth_input_name">Name</string>
+    <string name="auth_input_lastname">Last Name</string>
+    <string name="auth_input_phone">Your phone</string>
+    <string name="auth_btn_register">Register</string>
+    <string name="auth_btn_login">Login</string>
+
+    <string name="main_title">Welcome, User!</string>
+    <string name="main_phone">Your Phone!</string>
+    <string name="main_no_path">No path</string>
+    <string name="main_set_path">Set Path ⛙</string>
+    <string name="main_call_taxi">Call Taxi 🚖</string>
+    <string name="main_path_layout_from_to">From → To</string>
+    <string name="main_path_layout_datetime">01.01.1970, 17:47</string>
+    <string name="main_path_layout_info">6 Passengers, Buisnes</string>
+
+    <string name="set_path_from">From → To</string>
+    <string name="set_path_details">Details</string>
+    <string name="set_path_call_taxi">OK!</string>
+    <string name="set_path_input_from">From</string>
+    <string name="set_path_input_to">To</string>
+    <string name="set_path_input_date">Date</string>
+    <string name="set_path_input_time">Time</string>
+    <string name="set_path_input_passengers">Passengers</string>
+    <string name="set_path_input_car_type">Car type</string>
+
+    <string name="author">Никифоров Александр Иванович</string>
+    <string name="authorBtn">Author</string>
+</resources>

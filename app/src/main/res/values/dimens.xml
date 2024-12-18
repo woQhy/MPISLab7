@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auth_input_gap">24dp</dimen>
+    <dimen name="set_path_textviews_gap">16dp</dimen>
+    <dimen name="set_path_title_gap">8dp</dimen>
+    <dimen name="set_path_layout_gap">32dp</dimen>
+</resources>
